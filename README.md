@@ -61,6 +61,10 @@ DATA DOCUMENTATION (Explanation for each number section)
         This saves the trained model, one-hot encoder, and tokenizer to files, allowing them to be loaded and used later without 
         the need to retrain the model or process the data again. 
         This can be useful for deploying the model in a production environment or for continuing work on the model at a later time.
+## Report
+![Display Matrix](https://user-images.githubusercontent.com/82282919/211462960-227d736b-72eb-40ed-8044-a4b1c68eaead.png)
+![Report](https://user-images.githubusercontent.com/82282919/211462990-cc298d6e-152a-4bc1-8067-53e28ff15635.png)
+
 ## Graph
 # Architecture of the Model
 ![model](https://user-images.githubusercontent.com/82282919/211461584-c21a3dd2-1f76-447f-beac-705321e14a29.png)
