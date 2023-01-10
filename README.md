@@ -66,6 +66,9 @@ DATA DOCUMENTATION (Explanation for each number section)
 ![Report](https://user-images.githubusercontent.com/82282919/211462990-cc298d6e-152a-4bc1-8067-53e28ff15635.png)
 
 ## Graph
+# Loss vs Validation
+![Tensorboard](https://user-images.githubusercontent.com/82282919/211463181-d9e4a42c-91a5-4a32-8368-b4735e3c0fa8.png)
+
 # Architecture of the Model
 ![model](https://user-images.githubusercontent.com/82282919/211461584-c21a3dd2-1f76-447f-beac-705321e14a29.png)
 
