@@ -152,7 +152,7 @@ disp.plot()
 # %%
 #9. Save models
 #9.1 Save trained tf model
-model.save('Models', 'model_save_1', 'model.h5')
+model.save('Models/nlp_model.h5')
 
 #9.2 Save encoder ohe
 with open('ohe.pkl', 'wb') as f:
