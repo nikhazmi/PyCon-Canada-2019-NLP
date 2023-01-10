@@ -17,6 +17,7 @@ The script also includes several helper functions and modules that are called th
 
 ## Documentation
 DATA DOCUMENTATION (Explanation for each number section)
+
     Part 1: Loading data 
         This loads the data from a URL and stores it in a Pandas DataFrame.
 
