@@ -77,5 +77,7 @@ I would like to acknowledge the following sources that were used in the developm
 
 The dataset of news articles from the BBC, which was obtained from the following URL: https://raw.githubusercontent.com/susanli2016/PyCon-Canada-2019-NLP-Tutorial/master/bbc-text.csv
 The text_cleaning function, which was inspired by the tutorial "Natural Language Processing with Python" by Susan Li at PyCon Canada 2019: https://github.com/susanli2016/PyCon-Canada-2019-NLP-Tutorial
+
 The lstm_model_creation function, which was adapted from the tutorial "Sequence Classification with LSTM Recurrent Neural Networks in Python with Keras" by Jason Brownlee: https://machinelearningmastery.com/sequence-classification-lstm-recurrent-neural-networks-python-keras/
+
 The TensorFlow and scikit-learn libraries, which were used extensively throughout the script for tasks such as tokenization, padding, one-hot encoding, model creation and training, and evaluation.
