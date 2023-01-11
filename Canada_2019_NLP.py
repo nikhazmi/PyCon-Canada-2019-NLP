@@ -162,4 +162,5 @@ with open('ohe.pkl', 'wb') as f:
 token_json = tokenizer.to_json()
 with open('token.json', 'w') as f:
     json.dump(token_json, f)
+
 # %%
